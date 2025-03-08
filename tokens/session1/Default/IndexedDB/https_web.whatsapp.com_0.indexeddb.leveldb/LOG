@@ -1,0 +1,66 @@
+2025/02/12-09:31:06.111 a0c Reusing MANIFEST C:\Users\AHMAD HAIKAL RIZAL\OneDrive\文档\api\v1\tokens\session1\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/12-09:31:06.124 a0c Recovering log #4611
+2025/02/12-09:31:06.133 a0c Reusing old log C:\Users\AHMAD HAIKAL RIZAL\OneDrive\文档\api\v1\tokens\session1\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/004611.log 
+2025/02/12-09:31:07.119 49e0 Level-0 table #4628: started
+2025/02/12-09:31:07.130 49e0 Level-0 table #4628: 364161 bytes OK
+2025/02/12-09:31:07.132 49e0 Delete type=0 #4611
+2025/02/12-09:31:07.134 49e0 Manual compaction at level-0 from '\x00Y\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00Z\x00\x00\x00' @ 0 : 0; will stop at '\x00Y\x00\x00\x05' @ 9461698 : 1
+2025/02/12-09:31:07.135 49e0 Compacting 1@0 + 2@1 files
+2025/02/12-09:31:07.153 49e0 Generated table #4629@0: 5856 keys, 131103 bytes
+2025/02/12-09:31:07.157 49e0 Generated table #4630@0: 83 keys, 11899 bytes
+2025/02/12-09:31:07.163 49e0 Generated table #4631@0: 2213 keys, 40632 bytes
+2025/02/12-09:31:07.163 49e0 Compacted 1@0 + 2@1 files => 183634 bytes
+2025/02/12-09:31:07.164 49e0 compacted to: files[ 0 3 30 0 0 0 0 ]
+2025/02/12-09:31:07.165 49e0 Delete type=2 #4628
+2025/02/12-09:31:07.167 30a8 Manual compaction at level-0 from '\x00Y\x00\x00\x05' @ 9461698 : 1 .. '\x00Z\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/12-09:31:07.220 30a8 Compacting 1@1 + 10@2 files
+2025/02/12-09:31:07.288 30a8 Generated table #4632@1: 28722 keys, 2215206 bytes
+2025/02/12-09:31:07.360 30a8 Generated table #4633@1: 79415 keys, 2267028 bytes
+2025/02/12-09:31:07.425 30a8 Generated table #4634@1: 40641 keys, 2282828 bytes
+2025/02/12-09:31:07.500 30a8 Generated table #4635@1: 39923 keys, 2291752 bytes
+2025/02/12-09:31:07.541 30a8 Generated table #4636@1: 16159 keys, 2152348 bytes
+2025/02/12-09:31:07.563 30a8 Generated table #4637@1: 4542 keys, 2123861 bytes
+2025/02/12-09:31:07.604 30a8 Generated table #4638@1: 4413 keys, 2130688 bytes
+2025/02/12-09:31:07.673 30a8 Generated table #4639@1: 26516 keys, 2152240 bytes
+2025/02/12-09:31:07.770 30a8 Generated table #4640@1: 110872 keys, 2262985 bytes
+2025/02/12-09:31:07.830 30a8 Generated table #4641@1: 109722 keys, 2261206 bytes
+2025/02/12-09:31:07.849 30a8 Generated table #4642@1: 33 keys, 905 bytes
+2025/02/12-09:31:07.849 30a8 Compacted 1@1 + 10@2 files => 22141047 bytes
+2025/02/12-09:31:07.850 30a8 compacted to: files[ 0 2 31 0 0 0 0 ]
+2025/02/12-09:31:07.851 30a8 Delete type=2 #4576
+2025/02/12-09:31:07.852 30a8 Delete type=2 #4602
+2025/02/12-09:31:07.852 30a8 Delete type=2 #4603
+2025/02/12-09:31:07.852 30a8 Delete type=2 #4604
+2025/02/12-09:31:07.852 30a8 Delete type=2 #4605
+2025/02/12-09:31:07.853 30a8 Delete type=2 #4606
+2025/02/12-09:31:07.853 30a8 Delete type=2 #4607
+2025/02/12-09:31:07.853 30a8 Delete type=2 #4608
+2025/02/12-09:31:07.853 30a8 Delete type=2 #4609
+2025/02/12-09:31:07.853 30a8 Delete type=2 #4610
+2025/02/12-09:31:07.853 30a8 Delete type=2 #4614
+2025/02/12-09:31:07.853 30a8 Delete type=2 #4615
+2025/02/12-09:31:07.853 30a8 Delete type=2 #4630
+2025/02/12-09:31:08.012 30a8 Compacting 1@1 + 10@2 files
+2025/02/12-09:31:08.070 30a8 Generated table #4643@1: 84972 keys, 2235373 bytes
+2025/02/12-09:31:08.126 30a8 Generated table #4644@1: 96301 keys, 2247593 bytes
+2025/02/12-09:31:08.183 30a8 Generated table #4645@1: 101479 keys, 2254491 bytes
+2025/02/12-09:31:08.236 30a8 Generated table #4646@1: 40892 keys, 2309088 bytes
+2025/02/12-09:31:08.267 30a8 Generated table #4647@1: 11637 keys, 2172831 bytes
+2025/02/12-09:31:08.309 30a8 Generated table #4648@1: 3741 keys, 2155151 bytes
+2025/02/12-09:31:08.339 30a8 Generated table #4649@1: 3527 keys, 2148036 bytes
+2025/02/12-09:31:08.378 30a8 Generated table #4650@1: 6795 keys, 2149619 bytes
+2025/02/12-09:31:08.432 30a8 Generated table #4651@1: 34511 keys, 2261452 bytes
+2025/02/12-09:31:08.480 30a8 Generated table #4652@1: 24116 keys, 1966948 bytes
+2025/02/12-09:31:08.480 30a8 Compacted 1@1 + 10@2 files => 21900582 bytes
+2025/02/12-09:31:08.481 30a8 compacted to: files[ 0 1 31 0 0 0 0 ]
+2025/02/12-09:31:08.481 30a8 Delete type=2 #4616
+2025/02/12-09:31:08.481 30a8 Delete type=2 #4617
+2025/02/12-09:31:08.482 30a8 Delete type=2 #4618
+2025/02/12-09:31:08.482 30a8 Delete type=2 #4619
+2025/02/12-09:31:08.482 30a8 Delete type=2 #4620
+2025/02/12-09:31:08.482 30a8 Delete type=2 #4621
+2025/02/12-09:31:08.482 30a8 Delete type=2 #4622
+2025/02/12-09:31:08.482 30a8 Delete type=2 #4623
+2025/02/12-09:31:08.482 30a8 Delete type=2 #4624
+2025/02/12-09:31:08.482 30a8 Delete type=2 #4625
+2025/02/12-09:31:08.482 30a8 Delete type=2 #4629
